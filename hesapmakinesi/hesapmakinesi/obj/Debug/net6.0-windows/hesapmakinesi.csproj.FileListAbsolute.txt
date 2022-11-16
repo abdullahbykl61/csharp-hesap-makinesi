@@ -1,0 +1,17 @@
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\bin\Debug\net6.0-windows\hesapmakinesi.exe
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\bin\Debug\net6.0-windows\hesapmakinesi.deps.json
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\bin\Debug\net6.0-windows\hesapmakinesi.runtimeconfig.json
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\bin\Debug\net6.0-windows\hesapmakinesi.dll
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\bin\Debug\net6.0-windows\hesapmakinesi.pdb
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.Form1.resources
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.AssemblyInfo.cs
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.dll
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\refint\hesapmakinesi.dll
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.pdb
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\hesapmakinesi.genruntimeconfig.cache
+C:\Users\casper\Desktop\C#\hesapmakinesi\hesapmakinesi\obj\Debug\net6.0-windows\ref\hesapmakinesi.dll
